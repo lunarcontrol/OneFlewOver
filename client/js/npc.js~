@@ -29,13 +29,23 @@ define(['character'], function(Character) {
         ],
 
         "rick": [
-             "lorem ipsum dolor sit amet",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+            "What did you say to me boi? I will fuck you up!",
+            "WHat was that? You want to learn about MOTIFS??!?",
+             "Your mum would be proud. ",
+             "Ummm. Uh. Oh ya. Motifs..",
+             "SIZE is used in the novel to describe how they",
+             "control others or are controlled themeselves..",
         ],
 
         "scientist": [
-	    "lorem ipsum dolor sit amet",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+	    "Hello and welcome to my drug store.",
+            "I primarily sell black tar heroin but if you would like some red wine i have some."
+             "What?! You don't want black tar heroin? Are u 4 real!",
+             "You: 'Do you know anything about themes old man?'",
+             "You: 'Have you read One Flew Over The Cookoo's Nest?'",
+             "Like 30 years ago...",
+             "Insanity Vs. Sanity is the biggest over-arching theme.",
+             "The book explores what it actually means to be insane and who gets to define it.",
 		],
 
         "nyan": [
@@ -81,8 +91,10 @@ define(['character'], function(Character) {
         ],
 
         "coder": [
-             "8",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+             "Ah yes, SYMBOLS!",
+            "One of the biggest symbols in FOG..",
+             "FOG represnts an imaginary smoke screen of sorts which keeps",
+             "everyone satisfied with their lives.",
         ],
 
         "beachnpc": [

@@ -25,7 +25,7 @@ define(['character'], function(Character) {
              "Welcome!",
             "This is the 'One Flew Over The Cookoo's Nest",
              "Adventure World",
-             "Explore and learn about the book!",
+             "Explore and learn about the book!"
         ],
 
         "rick": [
@@ -34,7 +34,7 @@ define(['character'], function(Character) {
              "Your mum would be proud. ",
              "Ummm. Uh. Oh ya. Motifs..",
              "SIZE is used in the novel to describe how they",
-             "control others or are controlled themeselves..",
+             "control others or are controlled themeselves.."
         ],
 
         "scientist": [
@@ -45,7 +45,7 @@ define(['character'], function(Character) {
              "You: 'Have you read One Flew Over The Cookoo's Nest?'",
              "Like 30 years ago...",
              "Insanity Vs. Sanity is the biggest over-arching theme.",
-             "The book explores what it actually means to be insane and who gets to define it.",
+             "The book explores what it actually means to be insane and who gets to define it."
 		],
 
         "nyan": [
@@ -94,7 +94,7 @@ define(['character'], function(Character) {
              "Ah yes, SYMBOLS!",
             "One of the biggest symbols in FOG..",
              "FOG represnts an imaginary smoke screen of sorts which keeps",
-             "everyone satisfied with their lives.",
+             "everyone satisfied with their lives."
         ],
 
         "beachnpc": [
