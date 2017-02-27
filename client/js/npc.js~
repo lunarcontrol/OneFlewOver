@@ -22,8 +22,10 @@ define(['character'], function(Character) {
         ],
 
         "agent": [
-             "lorem ipsum dolor sit amet",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+             "Welcome!",
+            "This is the 'One Flew Over The Cookoo's Nest",
+             "Adventure World",
+             "Explore and learn about the book!",
         ],
 
         "rick": [
@@ -44,57 +46,57 @@ define(['character'], function(Character) {
         ],
 
         "beachnpc": [
-            "lorem ipsum dolor sit amet",
+            "1",
             "consectetur adipisicing elit, sed do eiusmod tempor"
         ],
 
         "forestnpc": [
-            "lorem ipsum dolor sit amet",
+            "2",
             "consectetur adipisicing elit, sed do eiusmod tempor"
         ],
 
         "desertnpc": [
-            "lorem ipsum dolor sit amet",
+            "3",
             "consectetur adipisicing elit, sed do eiusmod tempor"
         ],
 
         "lavanpc": [
-            "lorem ipsum dolor sit amet",
+            "4",
             "consectetur adipisicing elit, sed do eiusmod tempor"
         ],
 
         "priest": [
-             "lorem ipsum dolor sit amet",
+             "5",
             "consectetur adipisicing elit, sed do eiusmod tempor"
         ],
 
         "sorcerer": [
-             "lorem ipsum dolor sit amet",
+             "6",
             "consectetur adipisicing elit, sed do eiusmod tempor"
         ],
 
         "octocat": [
-             "lorem ipsum dolor sit amet",
+             "7",
             "consectetur adipisicing elit, sed do eiusmod tempor"
         ],
 
         "coder": [
-             "lorem ipsum dolor sit amet",
+             "8",
             "consectetur adipisicing elit, sed do eiusmod tempor"
         ],
 
         "beachnpc": [
-             "lorem ipsum dolor sit amet",
+             "9",
             "consectetur adipisicing elit, sed do eiusmod tempor"
         ],
 
         "desertnpc": [
-             "lorem ipsum dolor sit amet",
+             "10",
             "consectetur adipisicing elit, sed do eiusmod tempor"
         ],
 
         "othernpc": [
-            "lorem ipsum",
+            "11",
             "lorem ipsum"
         ]
     };
