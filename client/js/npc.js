@@ -8,7 +8,10 @@ define(['character'], function(Character) {
 
         "king": [
             "Would you like to hear a story?",
-            "Would you like to hear a story?",
+            " Randle Patrick McMurphy main character",
+            " Tricked his way into mental hospital.",
+            " Tries to escape after causing trouble",
+	    " Everyone gets screwed up or dies. Happy!"
         ],
 
         "villagegirl": [
@@ -57,38 +60,38 @@ define(['character'], function(Character) {
         ],
 
         "beachnpc": [
-            "1",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+            "Bla Bla Bla",
+            "Bla Bla Bla Bla Bla Bla"
         ],
 
         "forestnpc": [
-            "2",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+            "Bla Bla Bla",
+            "Bla Bla Bla Bla Bla Bla"
         ],
 
         "desertnpc": [
-            "3",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+            "Bla Bla Bla",
+            "Bla Bla Bla Bla Bla Bla"
         ],
 
         "lavanpc": [
-            "4",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+            "Bla Bla Bla",
+            "Bla Bla Bla Bla Bla Bla"
         ],
 
         "priest": [
-             "5",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+             "Bla Bla Bla",
+            "Bla Bla Bla Bla Bla Bla"
         ],
 
         "sorcerer": [
-             "6",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+             "Bla Bla Bla",
+            "Bla Bla Bla Bla Bla Bla"
         ],
 
         "octocat": [
-             "7",
-            "consectetur adipisicing elit, sed do eiusmod tempor"
+             "Bla Bla Bla",
+            "Bla Bla Bla Bla Bla Bla"
         ],
 
         "coder": [
