@@ -7,7 +7,8 @@ define(['character'], function(Character) {
         ],
 
         "king": [
-            "Hi, I'm the King",
+            "Would you like to hear a story?",
+            "Would you like to hear a story?",
         ],
 
         "villagegirl": [

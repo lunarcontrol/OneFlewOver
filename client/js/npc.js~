@@ -39,7 +39,7 @@ define(['character'], function(Character) {
 
         "scientist": [
 	    "Hello and welcome to my drug store.",
-            "I primarily sell black tar heroin but if you would like some red wine i have some."
+            "I primarily sell black tar heroin but if you would like some red wine i have some.",
              "What?! You don't want black tar heroin? Are u 4 real!",
              "You: 'Do you know anything about themes old man?'",
              "You: 'Have you read One Flew Over The Cookoo's Nest?'",
